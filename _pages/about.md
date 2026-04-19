@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-Hi! I am **WANG Yifan** (王一凡), an incoming PhD student at the Hong Kong University of Science and Technology (**HKUST**), starting Fall 2026, under the supervision of [Prof. Chen Qifeng](https://cqf.io/). I am honored to be awarded the **Hong Kong PhD Fellowship Scheme (HKPFS)**, a prestigious fellowship fully funded by the Hong Kong government.
+Hi! I am **WANG Yifan**, an incoming PhD student at the Hong Kong University of Science and Technology (**HKUST**), starting Fall 2026, under the supervision of [Prof. Chen Qifeng](https://cqf.io/). I am honored to be awarded the **Hong Kong PhD Fellowship Scheme (HKPFS)**, a prestigious fellowship fully funded by the Hong Kong government.
 
 I am currently a final-year undergraduate at HKUST, majoring in Data Science and Technology (AI focus), ranked **Top 2nd** out of 45 students in the program. I am also a research intern at **Ant Group**, working on **video-audio joint generation**.
 
