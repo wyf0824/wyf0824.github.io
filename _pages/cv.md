@@ -9,26 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in the Hong Kong University of Science and Technology(HKUST) (expected to graduate at June, 2026)
+## Education
 
-  Bachelor Science of Data Science and Technology, Artificial Intelligence (Top 10th out of the World Subject Ranking on Data Science and Artificial       Intelligence) (Top 2rd out of 45 student in the undergraduate program)
-  
-  Exchange in Ecole Polytechnique Federale de Lausanne (EPFL) (August 2024 - Jan 2025)
-  
-  Exchange in UC Berkeley (June 2024 - August 2024)
-  
-  Exchange in Zhiyuan College, Shanghai Jiao Tong University(SJTU) (July 2023)
+**Hong Kong University of Science and Technology (HKUST)**  
+Ph.D. in Computer Science and Engineering *(incoming, Fall 2026)*  
+Supervisor: [Prof. Chen Qifeng](https://cqf.io/)
 
-Publications
-======
-* [MotionLLM: Multimodal Motion-Language Learning with Large Language Models](https://arxiv.org/abs/2405.17013v2)
+**Hong Kong University of Science and Technology (HKUST)**  
+B.Sc. in Data Science and Technology (AI concentration) *(expected June 2026)*  
+Rank: Top 2nd out of 45 students | Top 10 worldwide in Data Science & AI subject ranking
 
-Awards
-======
-* Dean list for all 4 semesters in HKUST
-* HKUST admission scholarship (4 continuous years, half-tuition scholarship)
-* HKSAR Talent scholarship
+- Exchange: École Polytechnique Fédérale de Lausanne (EPFL) — Aug 2024 – Jan 2025
+- Exchange: UC Berkeley — Jun 2024 – Aug 2024
+- Exchange: Zhiyuan College, Shanghai Jiao Tong University (SJTU) — Jul 2023
 
-  
+---
+
+## Research Experience
+
+**Ant Group** — Research Intern *(2025 – Present)*  
+Working on video-audio joint generation.
+
+**HKUST Vision & Learning Lab** — Research Assistant  
+Human motion generation supervised by Prof. Chi-Keung Tang and Prof. Yu-Wing Tai.
+
+**EPFL VITA Lab** — Visiting Researcher *(Aug 2024 – Jan 2025)*  
+Transformer-based models for self-supervised action recognition with Prof. Alexandre Alahi.
+
+---
+
+## Publications
+
+**Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs**  
+*International Conference on Learning Representations (ICLR), 2025*
+
+**MotionLLM: Multimodal Motion-Language Learning with Large Language Models**  
+[[arXiv:2405.17013]](https://arxiv.org/abs/2405.17013v2)
+
+*Two papers under review at ICLR 2026.*
+
+---
+
+## Honors & Awards
+
+- **Hong Kong PhD Fellowship Scheme (HKPFS)** — PhD fully funded by the Hong Kong government *(2025)*
+- Dean's List — All 4 semesters at HKUST
+- HKUST Admission Scholarship — 4 continuous years (half-tuition)
+- HKSAR Talent Scholarship
