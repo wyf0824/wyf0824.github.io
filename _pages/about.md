@@ -1,6 +1,15 @@
 ---
 permalink: /
 title: ""
+seo_title: "WANG Yifan | HKUST | Generative AI Research"
+seo_description: "WANG Yifan is an incoming PhD student at HKUST and HKPFS awardee, working on generative models, human motion generation, video generation, and multimodal learning."
+keywords:
+  - WANG Yifan
+  - Wang Yifan HKUST
+  - Yifan Wang HKUST
+  - HKUST
+  - generative AI
+  - human motion generation
 author_profile: true
 redirect_from: 
   - /about/

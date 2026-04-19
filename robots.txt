@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wyf0824.github.io/sitemap.xml

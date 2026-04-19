@@ -24,6 +24,46 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
+<link rel="me" href="https://github.com/{{ site.author.github }}">
+<link rel="me" href="{{ site.author.googlescholar }}">
+<link rel="me" href="{{ site.author.linkedin }}">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "WANG Yifan",
+  "alternateName": ["Yifan Wang", "Wang Yifan"],
+  "url": "{{ site.url }}",
+  "image": "{{ '/images/profile.png' | prepend: base_path }}",
+  "email": "mailto:{{ site.author.email }}",
+  "jobTitle": "Incoming PhD Student",
+  "description": "{{ page.seo_description | default: site.description }}",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "{{ site.author.location }}"
+  },
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "Hong Kong University of Science and Technology",
+    "alternateName": "HKUST",
+    "url": "https://hkust.edu.hk/"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Hong Kong University of Science and Technology",
+    "alternateName": "HKUST",
+    "url": "https://hkust.edu.hk/"
+  },
+  "sameAs": [
+    "{{ site.author.googlescholar }}",
+    "{{ site.author.linkedin }}",
+    "https://github.com/{{ site.author.github }}",
+    "{{ site.url }}"
+  ]
+}
+</script>
+
 
 <!-- Support for MatJax -->
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
