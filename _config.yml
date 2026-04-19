@@ -12,7 +12,7 @@ title                    : "WANG Yifan"
 title_separator          : "-"
 name                     : &name "WANG Yifan"
 description              : &description "Incoming PhD at HKUST | HKPFS Awardee | Research Intern at Ant Group"
-url                      : https://wangyifanust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wyf0824.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
