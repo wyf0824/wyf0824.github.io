@@ -58,6 +58,29 @@
   font-size: $type-size-7;
 }
 
+.visitor-widget {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.visitor-widget__label {
+  margin: 0 0 0.75rem;
+  color: $darker-gray;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-6;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.visitor-widget__map {
+  width: min(100%, 420px);
+  min-height: 110px;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
 .page__footer-follow {
   ul {
     margin: 0;

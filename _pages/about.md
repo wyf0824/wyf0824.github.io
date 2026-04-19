@@ -58,19 +58,3 @@ redirect_from:
   <p class="publication-card__title"><strong>MotionLLM: Multimodal Motion-Language Learning with Large Language Models</strong></p>
   <p class="publication-card__meta"><a href="https://arxiv.org/abs/2405.17013v2">arXiv</a></p>
 </div>
-
----
-
-## Site Map
-
-<div class="publication-card">
-  <p class="publication-card__title"><strong>Quick Navigation</strong></p>
-  <p class="publication-card__meta">
-    <a href="/publications/">Publications</a> ·
-    <a href="/cv/">CV</a> ·
-    <a href="/talks/">Talks</a> ·
-    <a href="/teaching/">Teaching</a> ·
-    <a href="/portfolio/">Portfolio</a> ·
-    <a href="/sitemap/">Full Sitemap</a>
-  </p>
-</div>
